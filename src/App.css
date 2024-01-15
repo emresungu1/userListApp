@@ -1,0 +1,13 @@
+.uygulama-container {
+  display: flex;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.kullanici-listesi-container,
+.kullanici-detay-container {
+  flex: 1;
+  border: solid 1px #ccc;
+  padding: 20px;
+  margin: 10px;
+}
